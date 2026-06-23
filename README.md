@@ -1,35 +1,34 @@
-## Hi there 👋
+# Hi, I'm Tejaswini Kamarthapu 👋
 
-<!--
-**tejaswinikamarthapu11-lab/tejaswinikamarthapu11-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# Hi there, I'm Tejaswini Kamarthapu 👋
+## 📊 Data Analyst | Python | SQL | Power BI
 
-## 📊 Aspiring Data Analyst
+Detail-oriented Data Analyst with hands-on experience in healthcare insurance analytics, ETL pipeline development, business intelligence reporting, and dashboard creation. Skilled in transforming large datasets into actionable insights using Python, SQL, Power BI, and Excel.
 
-BBA (Data Analytics) Graduate passionate about transforming raw data into meaningful insights and business solutions. I enjoy working with data, building dashboards, and uncovering trends that support data-driven decision-making.
+I have worked on real-world healthcare billing analytics, customer segmentation, KPI reporting, and AI-powered analytics solutions, with a strong focus on data-driven decision-making and business problem solving.
 
-### 🚀 About Me
-
-* 🎓 BBA Graduate specializing in Data Analytics
-* 📍 Hyderabad, India
-* 📊 Aspiring Data Analyst
-* 🌱 Currently strengthening my skills in Python, SQL, Power BI, and Data Visualization
-* 💼 Open to Data Analyst and Business Analyst opportunities
+📍 Hyderabad, India
+💼 Open to Data Analyst Opportunities
+📧 [tejaswinikamarthapu11@gmail.com](mailto:tejaswinikamarthapu11@gmail.com)
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 About Me
 
-### Programming & Analytics
+* 🎓 BBA (Data Analytics) Graduate from JNTUH
+* 📊 Passionate about Data Analytics, Business Intelligence, and Data Visualization
+* 🐍 Skilled in Python, SQL, Power BI, and Excel
+* 📈 Experienced in ETL Pipelines, KPI Reporting, and Dashboard Development
+* 🤝 Strong communicator with experience collaborating across technical and business teams
+* 🌱 Currently expanding my skills in Advanced Analytics and Machine Learning
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Libraries
 
 * Python
 * SQL
-* Excel
-* Power BI
-* Tableau
-
-### Python Libraries
-
 * Pandas
 * NumPy
 * Matplotlib
@@ -37,68 +36,89 @@ BBA (Data Analytics) Graduate passionate about transforming raw data into meanin
 
 ### Data Analytics
 
-* Data Cleaning
 * Exploratory Data Analysis (EDA)
-* Data Visualization
+* ETL Pipeline Development
+* Data Cleaning & Transformation
+* Statistical Analysis
+* Customer Segmentation
+* KPI Reporting
+
+### Visualization & BI
+
+* Power BI
+* DAX
+* Microsoft Excel
 * Dashboard Development
-* Business Intelligence Reporting
 
 ### Tools
 
-* Git
-* GitHub
-* VS Code
-* MySQL Workbench
-* Power BI Desktop
+* Git & GitHub
+* MySQL
+* SQLAlchemy
+* Google Sheets
+
+---
+
+## 💼 Professional Experience
+
+### Healthcare Data Analyst Intern | Rapra Software Technologies (InsureAI)
+
+* Analyzed billing and claims data from 500+ hospitals
+* Cleaned and standardized healthcare datasets using Python and SQL
+* Supported AI-driven insurance claim validation workflows
+* Generated actionable insights for healthcare insurance stakeholders
+
+### Data Reporting Intern | JTBI (Industrial IoT Program)
+
+* Built KPI tracking dashboards
+* Delivered analytical reports on stakeholder engagement
+* Managed structured data collection and reporting
 
 ---
 
 ## 📂 Featured Projects
 
-### 📈 E-Commerce Sales Analytics Dashboard
+### 📈 E-Commerce Customer Segmentation & RFM Analysis
 
-* Analyzed e-commerce sales data using Python and Power BI
-* Built interactive dashboards for customer, sales, and product insights
-* Generated business recommendations based on sales trends
+* Built an end-to-end ETL pipeline on 400K+ retail transactions
+* Performed RFM-based customer segmentation
+* Identified churned and high-value customers
 
-### 💰 Financial Sales & Profit Analysis Dashboard
+### 💰 Financial Sales & Profit Dashboard
 
-* Created KPI-driven dashboards for financial performance analysis
-* Tracked sales, revenue, profit, and customer metrics
+* Developed interactive Power BI dashboards
+* Analyzed 10,000+ transactions
+* Automated KPI reporting and business insights
 
-### 🤖 AI Food Delivery Intelligence Platform
+### 🤖 AI-Powered Food Delivery Intelligence Platform
 
-* Automated food delivery analytics workflow
-* Generated AI-powered business insights and reporting
+* Developed AI-driven analytics automation workflows
+* Built anomaly detection and operational reporting systems
 
----
+### 🏥 Healthcare Insurance Analytics
 
-## 📜 Certifications & Learning
-
-* Data Analytics
-* Python for Data Analysis
-* SQL for Analytics
-* Power BI Dashboard Development
+* Applied regression, correlation, chi-square, and T-tests
+* Generated insights from hospital billing and survey data
+* Evaluated factors influencing AI adoption in insurance workflows
 
 ---
 
-## 📫 Connect With Me
+## 📜 Certifications
+
+* IBM – Excel Basics for Data Analysis
+* Coursera – Python for Data Analysis
+* Coursera – Advanced Relational Database and SQL
+* Meta – Generative AI in Data Analytics
+* Udemy – Master SQL for Data Science
+
+---
+
+## 🌐 Connect With Me
 
 * LinkedIn: [www.linkedin.com/in/kamarthapu-tejaswini](http://www.linkedin.com/in/kamarthapu-tejaswini)
 * GitHub: github.com/tejaswinikamarthapu11-lab
+* Email: [tejaswinikamarthapu11@gmail.com](mailto:tejaswinikamarthapu11@gmail.com)
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Turning Data into Insights, and Insights into Decisions.
